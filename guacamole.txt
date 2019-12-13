@@ -5,3 +5,6 @@ ingredients
 -tomatoes
 -cilantro
 -onion
+-salt
+-garlic
+-lime
