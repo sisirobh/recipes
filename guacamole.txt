@@ -1,11 +1,11 @@
 guacamole recipe
 
 ingredients
--mistake avocado
+-avocado
 -tomatoes
 -cilantro
 -onion
--salt oops
+-salt
 -garlic
 -lime
 Preparation
@@ -14,4 +14,3 @@ Preparation
 3. add the veggies, salt and then mash together
 4. finally squeeze limes into it 
 5. eat with chips
-oopsie!
